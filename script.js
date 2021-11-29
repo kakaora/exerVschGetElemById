@@ -1,0 +1,1 @@
+document.getElementById("my header").innerHTML = "JS Header Replacement Test";
